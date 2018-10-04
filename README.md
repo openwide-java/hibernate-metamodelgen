@@ -1,3 +1,7 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/hibernate/hibernate-metamodelgen).
+
 # Hibernate JPA 2 Metamodel Generator
 
 ## Latest stable version
